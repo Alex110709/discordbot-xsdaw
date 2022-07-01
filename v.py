@@ -1,4 +1,4 @@
-print(impor 중...)
+print(import 중...)
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options as ChromeOptions
 from selenium.webdriver.support.ui import WebDriverWait
