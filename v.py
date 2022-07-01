@@ -1,5 +1,5 @@
 '''
-
+print(impor 중...)
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options as ChromeOptions
 from selenium.webdriver.support.ui import WebDriverWait
@@ -9,7 +9,7 @@ from discord.ext import tasks
 from itertools import cycle
 
 import discord, sqlite3, datetime, asyncio, time, configparser, os, sys, json,base64
-
+print(import 성공)
 player_dict = dict()
 print("=================================================")
 print("개발자: CS_pistonX#9181
