@@ -1,8 +1,4 @@
 '''
-질문은 
-https://discord.gg/sBUXRGc
-봉순#1234
-'''
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options as ChromeOptions
@@ -16,7 +12,7 @@ import discord, sqlite3, datetime, asyncio, time, configparser, os, sys, json,ba
 
 player_dict = dict()
 print("=================================================")
-print("봉순#1234\nhttps://봉순.com\n이 프로그램은 무료로 배포되는 프로그램입니다\n")
+print("개발자: CS_pistonX#9181
 print("=================================================")
 
 with open('setting.json', 'r', encoding='utf-8') as boo:
